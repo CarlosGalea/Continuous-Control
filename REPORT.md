@@ -30,9 +30,10 @@ Parameters defined in the 'agent.py' file:
 
 ![Parameters](images/parameters.png)
 
-Optimizer:
+Optimizers:
 
-![Optimizer](images/optimizer.png)
+![Optimizer](images/optim-actor.png)
+![Optimizer](images/optim-critic.png)
 
 Neural Network Architectures: 
 
