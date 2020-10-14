@@ -26,20 +26,20 @@ the obtained results.
 
 ### Hyper-Parameters
 
-Parameters defined in the 'agent.py' file:
+#### Parameters defined in the 'agent.py' file:
 
 ![Parameters](images/parameters.png)
 
-Optimizers:
+#### Optimizers:
 
 ![Optimizer](images/optim-actor.png)
 ![Optimizer](images/optim-critic.png)
 
-Neural Network Architectures: 
+#### Neural Network Architectures: 
 
 ![Model Architecture](images/model_architecture.png)
 
-Plotted Results:
+#### Plotted Results:
 
 ![Plot](images/plot.png)
 
